@@ -13,6 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "24.0.13",
+    "@types/pg": "8.11.5",
     "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.21.0",
     "eslint": "8.57.0",
@@ -30,6 +31,7 @@
   "dependencies": {
     "dotenv": "17.2.0",
     "fastify": "4.26.2",
+    "pg": "8.11.5",
     "zod": "4.0.5"
   }
 }
